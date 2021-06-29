@@ -1,0 +1,21 @@
+.main-mission-icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-mission-icon.large .main-mission-icon-descriptor {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+.main-mission-icon-image {
+  height: 22px;
+  width: 30px;
+}
+
+.main-mission-icon-descriptor {
+  font-size: 12px;
+  margin-top: -8px;
+}

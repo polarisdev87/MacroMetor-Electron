@@ -1,0 +1,2 @@
+export const SET_MAIN_MISSION = 'SET_MAIN_MISSION'
+export const SET_SIDE_MISSION = 'SET_SIDE_MISSION'

@@ -1,0 +1,262 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400");
+* {
+  box-sizing: border-box;
+}
+.ant-modal .macro-modal {
+  padding-bottom: 0;
+}
+.ant-btn {
+  font-family: "Roboto", Helvetica;
+}
+.ant-input {
+  color: var(--alto);
+  background-color: var(--eerie-black);
+}
+.macro-modal .ant-modal-footer{
+  background: var(--eerie-black);
+  padding-bottom: 0;
+  border-top: 1px solid var(--alto);
+}
+.macro-modal .ant-modal-header{
+  background: var(--eerie-black);
+  text-align: center;
+  border-bottom: 1px solid var(--alto);
+}
+.macro-modal .ant-modal-header .ant-modal-title{
+  font-family: "Roboto", Helvetica;
+  color: whitesmoke;
+}
+.border-1px-alto {
+  border: 1px solid var(--alto);
+}
+.game-review-modal-star-limitations {
+  align-items: flex-start;
+  display: flex;
+  width: 573px;
+}
+.game-review-modal-star-limitations .bottom {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 0px;
+  width: 489px;
+}
+.game-review-modal-star-limitations .content {
+  height: 80px;
+  margin-top: 158px;
+  width: 572px;
+}
+.game-review-modal-star-limitations .description-i1171 {
+  letter-spacing: 0px;
+  line-height: 22px;
+  margin-left: 2px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+.game-review-modal-star-limitations .directionbottom {
+  height: 64px;
+  left: 423px;
+  position: absolute;
+  top: 96px;
+  width: 150px;
+}
+.game-review-modal-star-limitations .footer {
+  height: 52px;
+  margin-top: 158px;
+  width: 572px;
+  border-top: 1px solid var(--alto);
+}
+.game-review-modal-star-limitations .footer .ant-btn {
+  cursor:text
+}
+.game-review-modal-star-limitations .header {
+  height: 56px;
+  width: 572px;
+  border-bottom: 1px solid var(--alto);
+}
+.game-review-modal-star-limitations .itemsquintuple-ustom-iconfalse {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  left: 405px;
+  overflow: hidden;
+  position: absolute;
+  top: 74px;
+  width: 132px;
+}
+.game-review-modal-star-limitations .itemsquintuple-ustom-iconfalse-1 {
+  top: 200px;
+}
+.game-review-modal-star-limitations .label {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  width: 513px;
+}
+.game-review-modal-star-limitations .label-1 {
+  left: 28px;
+  position: absolute;
+  top: 73px;
+}
+.game-review-modal-star-limitations .label-2 {
+  left: 28px;
+  position: absolute;
+  top: 200px;
+}
+.game-review-modal-star-limitations .modalbasic {
+  align-items: flex-start;
+  background-color: var(--eerie-black);
+  border-radius: 2px;
+  box-shadow: 0px 9px 28px rgba(0, 0, 0, 0.05), 0px 6px 16px rgba(0, 0, 0, 0.08), 0px 3px 6px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+  height: 504px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 572px;
+}
+.game-review-modal-star-limitations .overlap-group {
+  height: 504px;
+  position: relative;
+  width: 573px;
+}
+.game-review-modal-star-limitations .placeholder-text {
+  left: 38px;
+  letter-spacing: 0px;
+  line-height: 22px;
+  position: absolute;
+  top: 97px;
+  white-space: nowrap;
+  width: 279px;
+}
+.game-review-modal-star-limitations .placeholder-text-1 {
+  left: 38px;
+  letter-spacing: 0px;
+  line-height: 22px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+  width: 333px;
+}
+.game-review-modal-star-limitations .placeholder-text-i1 {
+  letter-spacing: 0px;
+  line-height: 22px;
+  min-height: 44px;
+  width: 491px;
+}
+.game-review-modal-star-limitations .placeholder-text-i1-1 {
+  letter-spacing: 0px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+  width: 491px;
+}
+.game-review-modal-star-limitations .requiredtrue-op-help-textfalse {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 28px;
+  min-height: 108px;
+  position: absolute;
+  top: 325px;
+  width: 513px;
+}
+.game-review-modal-star-limitations .resizer {
+  height: 9px;
+  margin-right: -10.32px;
+  margin-top: -5px;
+  width: 9px;
+}
+.game-review-modal-star-limitations .text- {
+  letter-spacing: 0px;
+  line-height: 22px;
+  min-height: 22px;
+  min-width: 9px;
+  text-align: right;
+  white-space: nowrap;
+}
+.game-review-modal-star-limitations .textarea {
+  align-items: flex-end;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  min-height: 54px;
+  padding: 5px 10px;
+  width: 513px;
+}
+.game-review-modal-star-limitations .textarea-1 {
+  align-items: flex-end;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  left: 28px;
+  min-height: 32px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 251px;
+  width: 513px;
+}
+.game-review-modal-star-limitations .textarea-2 {
+  top: 124px;
+}
+.game-review-modal-star-limitations .union {
+  height: 20px;
+  margin-left: 8px;
+  margin-top: -0.42px;
+  width: 20px;
+}
+.game-review-modal-star-limitations .union-1 {
+  height: 20px;
+  margin-top: -0.42px;
+  width: 20px;
+}
+.game-review-modal-star-limitations .word-count-i1171 {
+  letter-spacing: 0px;
+  line-height: 22px;
+  margin-right: -12px;
+  margin-top: 1px;
+  min-height: 22px;
+  min-width: 47px;
+  text-align: right;
+  white-space: nowrap;
+}
+.roboto-normal-white-14px {
+  color: var(--white);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-white-14px-2 {
+  color: var(--white-2);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-white-14px-3 {
+  color: var(--white-3);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.simsong-regular-normal-rose-14px {
+  color: var(--rose);
+  font-family: "SimSong-Regular", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --alto: rgba(217, 217, 217, 0.45);
+  --eerie-black: rgba(32, 32, 32, 1);
+  --rose: rgba(255, 77, 79, 1);
+  --white: rgba(255, 255, 255, 0.25);
+  --white-2: rgba(255, 255, 255, 0.85);
+  --white-3: rgba(255, 255, 255, 0.35);
+}
